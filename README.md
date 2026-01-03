@@ -2,6 +2,12 @@
 
 Bu depo, anlamlı kelimelerden oluşan `.tr` uzantılı alan adlarının müsaitlik durumlarını takip etmek amacıyla oluşturulmuştur. Trabis CLI aracı kullanılarak düzenli olarak güncellenmektedir.
 
+## Popüler İsimler & Jenerik Kelimeler
+
+Yüksek satış hacmine sahip global jenerik kelimelerin `.tr` durumu:
+- [Popüler Müsait Alan Adları (Belgesiz)](available_popular.md)
+- [Popüler Belge Gerektiren Alan Adları (Takıl Listesi)](available_popular_docs.md)
+
 ## Türkçe Kelimeler (4 Harfli)
 
 - [Müsait Alan Adları (Belgesiz)](available_no_docs.md) - Hemen tescil edilebilir.
