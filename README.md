@@ -13,4 +13,4 @@ Bu depo, anlamlı kelimelerden oluşan `.tr` uzantılı alan adlarının müsait
 - [Available Domains (No Documents)](available_no_docs_en.md) - Immediate registration.
 - [Available Domains (Documents Required)](available_docs_required_en.md) - Requires documentation.
 
-**Son Güncelleme:** 4 Ocak 2024
+**Son Güncelleme:** 10 Ocak 2026
