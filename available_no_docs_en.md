@@ -1,8 +1,8 @@
-# Available 4-Letter English Word Domains (No Documents)
+# 4 Harfli İngilizce - Müsait Alan Adları (Belgesiz)
 
-**Check Date:** January 4, 2024
+**Güncelleme Tarihi:** 10 Ocak 2026
 
-This list contains 4-letter meaningful English words with `.tr` extension that are available for immediate registration without documents, as scanned via Trabis.
+Bu liste, 4 Harfli İngilizce kelimelerin `.tr` uzantılı ve belge gerektirmeyen müsaitlik durumlarını içerir.
 
 - acid.tr
 - acts.tr
@@ -14,7 +14,6 @@ This list contains 4-letter meaningful English words with `.tr` extension that a
 - hour.tr
 - knew.tr
 - lack.tr
-- lead.tr
 - loaf.tr
 - loam.tr
 - lobe.tr
@@ -38,3 +37,9 @@ This list contains 4-letter meaningful English words with `.tr` extension that a
 - ward.tr
 - wary.tr
 - wear.tr
+
+## Yeniden Tahsise Açılacaklar
+Aşağıdaki alan adları "Yeniden Tahsis Listesinde" olup, belirtilen tarihlerde satışa çıkacaktır:
+
+- poor.tr (Tarih: 2026-01-16)
+- warn.tr (Tarih: 2026-01-18)

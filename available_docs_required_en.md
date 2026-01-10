@@ -1,8 +1,8 @@
-# Available 4-Letter English Word Domains (Documents Required / Takıl Listesi)
+# 4 Harfli İngilizce - Müsait Alan Adları (Belge Gerekli)
 
-**Check Date:** January 4, 2024
+**Güncelleme Tarihi:** 10 Ocak 2026
 
-This list contains 4-letter meaningful English words with `.tr` extension that are on the "Takıl Listesi" and require documentation for registration.
+Bu liste, 4 Harfli İngilizce kelimelerin `.tr` uzantılı ve belge gerektiren (Takıl Listesi) müsaitlik durumlarını içerir.
 
 - back.tr
 - band.tr

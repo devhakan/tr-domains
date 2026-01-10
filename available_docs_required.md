@@ -1,8 +1,8 @@
-# Müsait 4 Harfli Türkçe Kelime Alan Adları (Belge Gerektiren / Takıl Listesi)
+# 4 Harfli Türkçe - Müsait Alan Adları (Belge Gerekli)
 
-**Kontrol Tarihi:** 4 Ocak 2024
+**Güncelleme Tarihi:** 10 Ocak 2026
 
-Bu liste, Trabis üzerinde "Takıl Listesi"nde olan ve kayıt için belge gerektiren 4 harfli anlamlı Türkçe kelimelerden oluşan `.tr` uzantılı alan adlarını içerir.
+Bu liste, 4 Harfli Türkçe kelimelerin `.tr` uzantılı ve belge gerektiren (Takıl Listesi) müsaitlik durumlarını içerir.
 
 - agiz.tr
 - atik.tr
@@ -11,6 +11,7 @@ Bu liste, Trabis üzerinde "Takıl Listesi"nde olan ve kayıt için belge gerekt
 - bant.tr
 - boru.tr
 - bulu.tr
+- cadi.tr
 - cila.tr
 - cips.tr
 - dara.tr
@@ -28,11 +29,10 @@ Bu liste, Trabis üzerinde "Takıl Listesi"nde olan ve kayıt için belge gerekt
 - jale.tr
 - juri.tr
 - kafa.tr
+- kina.tr
 - klor.tr
 - kova.tr
 - kuru.tr
-- lira.tr
-- loca.tr
 - luks.tr
 - maas.tr
 - mali.tr
@@ -44,11 +44,10 @@ Bu liste, Trabis üzerinde "Takıl Listesi"nde olan ve kayıt için belge gerekt
 - peri.tr
 - prim.tr
 - roka.tr
+- sans.tr
 - semt.tr
 - sira.tr
-- sans.tr
+- tren.tr
 - veli.tr
 - yapi.tr
 - yazi.tr
-- kina.tr
-- tren.tr

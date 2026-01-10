@@ -1,8 +1,8 @@
-# Müsait 4 Harfli Türkçe Kelime Alan Adları (Belgesiz)
+# 4 Harfli Türkçe - Müsait Alan Adları (Belgesiz)
 
-**Kontrol Tarihi:** 4 Ocak 2024
+**Güncelleme Tarihi:** 10 Ocak 2026
 
-Bu liste, Trabis üzerinden otomatik olarak taranmış, belge gerektirmeden hemen kaydedilebilen 4 harfli anlamlı Türkçe kelimelerden oluşan `.tr` uzantılı alan adlarını içerir.
+Bu liste, 4 Harfli Türkçe kelimelerin `.tr` uzantılı ve belge gerektirmeyen müsaitlik durumlarını içerir.
 
 - baht.tr
 - cile.tr
@@ -18,10 +18,9 @@ Bu liste, Trabis üzerinden otomatik olarak taranmış, belge gerektirmeden heme
 - gark.tr
 - gork.tr
 - omuz.tr
+- ruku.tr
 - saba.tr
 - sivi.tr
-- suet.tr
 - soku.tr
+- suet.tr
 - veda.tr
-- vuku.tr
-- ruku.tr
